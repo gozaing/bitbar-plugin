@@ -1,1 +1,1 @@
-# bitbar-plugin
+# Bitbar-plugin
